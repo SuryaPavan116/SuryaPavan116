@@ -115,13 +115,9 @@ GPA: 9.8
 - HTML + CSS
 - SQL
 
-### 🛠 Tools & Technologies
-- Spring Boot
-- Flask
-- Django
-- MongoDB
-- AWS
-- REST APIs
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,tailwind,postgres,mongodb,js,python,c,java,django,flask&theme=dark" />
+</p>
 
 ### 🧠 Soft Skills
 - Communication
