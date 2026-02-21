@@ -13,7 +13,7 @@
 <!-- ====================== PROFILE PHOTO ====================== -->
 
 <p align="center">
-  <img src="profile.png" width="200" style="border-radius:50%">
+  <img src="DSC_1221.jpg" width="200" style="border-radius:50%">
 </p>
 
 <!-- ====================== NAVIGATION LINKS ====================== -->
