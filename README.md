@@ -13,17 +13,16 @@
 <!-- ====================== PROFILE PHOTO ====================== -->
 
 <p align="center">
-  <img src="DSC_1221.jpg" width="200" style="border-radius:50%">
+  <img src="DSC_1221.JPG" width="200" style="border-radius:50%">
+</p>
+<p align="center">
+📍 Vijayawada, India  
+📧 suryapavanchinna2003@gmail.com
 </p>
 
 <!-- ====================== NAVIGATION LINKS ====================== -->
 
-<p align="center">
-  <a href="#">Home</a> |
-  <a href="#">About</a> |
-  <a href="#">Projects</a> |
-  <a href="#">Contact</a>
-</p>
+
 
 ---
 
@@ -44,15 +43,15 @@
 
 <p align="center">
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:suryapavanchinna2003@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
 </a>
 
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com/in/surya-pavan-chinnam-225524248//in/yourprofile">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://yourportfolio.com">
+<a href="https://suryapavanportfolio.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge">
 </a>
 
@@ -61,11 +60,11 @@
 ---
 
 <!-- ====================== PROFILE SUMMARY ====================== -->
+## 🙋 Career Objective
 
-## 📝 Profile Summary
+A highly motivated individual with strong communication skills, eager to contribute to innovative and meaningful projects.  
+Looking to join an organization that encourages continuous learning, collaboration, and professional growth.
 
-I am a passionate software developer interested in building scalable applications, 
-learning new technologies, and solving real-world problems.
 
 I enjoy working with:
 
@@ -91,7 +90,83 @@ I enjoy working with:
 </p>
 
 ---
+## 🎓 Education
 
+🎓 **B.Tech in Computer Science and Engineering**  
+Koneru Lakshmaiah Education Foundation (2021 – 2025)  
+GPA: 8.99  
+
+📘 **Intermediate – MPC**  
+Sri Chaitanya Junior College (2019 – 2021)  
+GPA: 8.32  
+
+🏫 **SSC**  
+Sri Chaitanya School (2019)  
+GPA: 9.8  
+
+---
+
+## 🚀 Technical Skills
+
+### 💻 Programming Languages
+- C
+- Java
+- Python
+- HTML + CSS
+- SQL
+
+### 🛠 Tools & Technologies
+- Spring Boot
+- Flask
+- Django
+- MongoDB
+- AWS
+- REST APIs
+
+### 🧠 Soft Skills
+- Communication
+- Decision Making
+- Time Management
+- Collaboration
+
+---
+
+## 💼 Projects
+
+### 🌐 Online Social Media Platform (Java Full Stack)
+- Built using Spring Boot with SQL integration
+- Implemented RESTful APIs for efficient communication
+- Optimized performance using caching and query handling
+- Working on AWS deployment for scalability
+
+### 📈 Stock Exchange Management System (Python Full Stack)
+- Developed using Flask & Django with MongoDB
+- Built RESTful APIs for backend functionality
+- Deployed application on AWS
+- Documented development on LinkedIn
+
+### ✋ Hand Gesture Recognition (Deep Learning)
+- Developed CNN model for gesture recognition
+- Building web application for real-time interaction
+- Collaborated with frontend and backend teams
+
+---
+
+## 💼 Internship
+
+### 🤖 AI-ML Virtual Internship (2023)
+- Gained practical experience in Artificial Intelligence and Machine Learning
+- Worked on real-world AI/ML applications
+
+---
+
+## 📜 Certifications
+
+- AWS Cloud Practitioner (CLF-C02)
+- Red Hat Certified (EX-183)
+- Google TensorFlow Developer Certified (2024)
+
+---
 <!-- ====================== GITHUB STATS ====================== -->
 
 ## 📊 GitHub Stats
@@ -104,12 +179,5 @@ I enjoy working with:
 
 <!-- ====================== VISITOR COUNTER ====================== -->
 
-## 👀 Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue">
-</p>
-
----
 
 ⭐ From Surya Pavan
