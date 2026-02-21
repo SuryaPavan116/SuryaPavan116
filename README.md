@@ -114,8 +114,8 @@ GPA: 9.8
 - Python
 - HTML + CSS
 - SQL
-
-<p align="center">
+### 🛠 Tools & Technologies
+<p>
 <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,tailwind,postgres,mongodb,js,python,c,java,django,flask&theme=dark" />
 </p>
 
